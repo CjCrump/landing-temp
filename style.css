@@ -101,6 +101,18 @@ body {
     display: block;
 }
 
+.image-credit {
+  font-size: 0.75rem;
+  color: #777;
+  margin-top: 0.25rem;
+}
+
+.image-credit a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+
 /* Info Section */
 .info {
   padding: 60px 0 80px;
