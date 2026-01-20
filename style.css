@@ -14,6 +14,25 @@ body {
   margin: 0 auto;
   padding: 0 24px;
 }
+/* Home button */
+
+.home {
+  display: flex;
+  flex-direction: flex-start;
+  text-decoration: none;
+  align-content: center;
+  justify-content: center;
+  max-width: 15%;
+  margin: 0;
+  padding: 6px;
+  background:white;
+  color: black;
+}
+
+.home:hover {
+  background: black;
+  color: white;
+}
 
 /* Hero Section */
 .hero {
